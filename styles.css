@@ -1,0 +1,21 @@
+/*Consider adding rarity colors to text for different items*/
+#main-title{
+    color: blue;
+}
+.title{
+    background-color: black;
+    color: green;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+.recipe-link{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.recipe-image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+*{
+    font-family: comic, Calibri, sans-serif;
+}
